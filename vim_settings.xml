@@ -49,12 +49,6 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/src/github.com/mizoR/spring-boot-study/src/main/java/HelloController.java" timestamp="1453819623816">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="25" />
-      </file>
       <file name="$USER_HOME$/ghq/github.com/mizoR/JavaStudy/src/io/github/mizor/javastudy/Main.java" timestamp="1447481316404">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="36" />
@@ -131,46 +125,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Application</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBMaXN0PEhvZ2U+IGxpc3QgPSBBcnJheXMuYXNMaXN0KAogICAgICAgICAgICAgICAgbmV3IEhvZ2UoKSB7ewogICAgICAgICAgICAgICAgICAgIGlkID0gMTA7CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSAiaG9nZSI7CiAgICAgICAgICAgICAgICB9fSwKICAgICAgICAgICAgICAgIG5ldyBIb2dlKCkge3sKICAgICAgICAgICAgICAgICAgICBpZCA9IDIwOwogICAgICAgICAgICAgICAgICAgIHZhbHVlID0gImZ1Z2EiOwogICAgICAgICAgICAgICAgfX0sCiAgICAgICAgICAgICAgICBuZXcgSG9nZSgpIHt7CiAgICAgICAgICAgICAgICAgICAgaWQgPSAzMDsKICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9ICJwaXlvIjsKICAgICAgICAgICAgICAgIH19KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
-      </register>
-      <register name="2" type="4">
-        <text>1</text>
-      </register>
-      <register name="3" type="4">
-        <text>5</text>
-      </register>
-      <register name="4" type="4">
         <text>0</text>
       </register>
-      <register name="5" type="4">
-        <text>10</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5TcHJpbmdBcHBsaWNhdGlvbjsK</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5Db25maWd1cmFibGVBcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>java</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>fuuuu</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9fSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSAiYm9vIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -198,12 +192,12 @@
       </history-search>
       <history-cmd>
         <entry>a!</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>set nu</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -217,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
