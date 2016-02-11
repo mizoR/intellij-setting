@@ -307,7 +307,7 @@ e</text>
         <text>yuki</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -345,9 +345,9 @@ e</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>set nu</entry>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
